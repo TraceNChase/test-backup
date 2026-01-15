@@ -14,6 +14,7 @@
 
 
 
+![_7608_Planned_wiring__388_xiao esp32-c6__6026_S2 mini esp32 pic 1__387_S2 mini esp32 pic2](https://github.com/user-attachments/assets/58cb06f6-4b82-45b1-aa3c-c2123897cb35)
 
 
 
