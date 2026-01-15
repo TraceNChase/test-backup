@@ -1,7 +1,8 @@
 
 
-https://ibb.co/XxGwrSpn
-
+<p align="center">
+  <img src="https://i.ibb.co/XxGwrSpn/image.png" alt="Project Intro" width="600">
+</p>
 
 
 
