@@ -1,5 +1,7 @@
 
-<img src="https://i.ibb.co/51pQvWJ/image.png" width="100%">
+<p align="center">
+  <img src="https://i.ibb.co/51pQvWJ/image.png" width="100%">
+</p>
 
 
 
